@@ -1,4 +1,6 @@
-{
+{ 
+
+  "hompage" : "https://MarviinFlores/github.io/swiftlanding",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }

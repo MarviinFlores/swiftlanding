@@ -429,7 +429,7 @@
             }
                 /* PRICING*/
         
-            .pricing .row {
+       .pricing .row {
                 margin-top: 2rem;
 		    }		
         .pricing-item{
@@ -459,12 +459,12 @@
         color:var(--mount-meadow);   
         	
         }
-	/*
+	
         .princing-item .price span:last-child{
         font-size:0.85rem;
         letter-spacing:1;
         font-weight:500;
-        }*/
+        }
 
         .pricing-item ul li{
          list-style: none;   
@@ -692,8 +692,8 @@
     }    
         /* navbar change*/
         .cng-navbar{
-           /* -webkit-box-shadow:0 2px 5px 0 rgba(207,205,207,0.3);
-            -moz-box-shadow:0 2px 5px 0 rgba(207,205,207,0.3);*/
+           -webkit-box-shadow:0 2px 5px 0 rgba(207,205,207,0.3);
+            -moz-box-shadow:0 2px 5px 0 rgba(207,205,207,0.3);
             box-shadow: 0 2px 5px 0 rgba(207,205,207,0.3);
             margin-top:0;
             background: #fff;

@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 	// WOW INIT
 	
-//	new  WOW().init();
+	new  WOW().init();
 
     //  navigation bar toggle
 $('#navbar-toggler').click(function(){
